@@ -20,4 +20,4 @@ Developed an SQL-based **Airline Reservation System** to handle essential airlin
 **Key Contributions**:  
 - Designed and implemented a relational database with 4+ interrelated tables to model real-world airline operations.  
 - Wrote optimized queries to handle flight schedules, seat availability, and fare calculations.  
-- Developed **updateable and scalable structures** to support future features, like loyalty programs and multi-city bookings.  
+- Developed **updateable and scalable structures** to support future features, like loyalty programs and bookings.  
